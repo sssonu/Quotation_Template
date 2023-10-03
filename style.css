@@ -1,0 +1,25 @@
+#img{
+    margin-left:auto;
+    margin-right:auto;
+    height:500px;
+    width:500px;
+    border-top:10px solid gold;
+    border-bottom:110px solid gold;
+    border-right:10px solid gold;
+    border-left:10px solid gold;
+    
+  }
+  h1{
+    text-align:center;
+    font-family:"Libre Baskerville",serif;
+    color:white;
+
+  }
+  h4{
+    text-align:center;
+    font-family:'Libre Baskerville',sans-serif;
+    color:white;
+  }
+  *{
+    draggable="true";
+  }
